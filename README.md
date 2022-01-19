@@ -1,5 +1,5 @@
 - 👋 Hi, I’m William Kubin
-- 👀 I’m interested in Data Science/Analytics
+- 👀 I’m interested in Data Science/Analytics, Machine Learning, Cloud Computing
 - 🌱 I’m currently learning Computational Science (Ph.D.)
 - 💞️ I’m looking to collaborate on data science/data analytics and computational science projects
 - 📫 How to reach me: williamkubinph@gmail.com
